@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://tomekbuslow7256:8080/WebServiceGlassSSL/ExampleWSService?wsdl" uri="wsdl/tomekbuslow7256_8080/WebServiceGlassSSL/ExampleWSService.wsdl"/>
+    <system systemId="http://tomekbuslow7256:8080/WebServiceGlassSSL/ExampleWSService?xsd=1" uri="wsdl/tomekbuslow7256_8080/WebServiceGlassSSL/ExampleWSService.xsd_1.xsd"/>
+    <system systemId="https://tomekbuslow7256:8181/WebServiceGlassSSL/ExampleWSService?wsdl" uri="wsdl/tomekbuslow7256_8181/WebServiceGlassSSL/ExampleWSService.wsdl"/>
+    <system systemId="https://tomekbuslow7256:8181/WebServiceGlassSSL/ExampleWSService?xsd=1" uri="wsdl/tomekbuslow7256_8181/WebServiceGlassSSL/ExampleWSService.xsd_1.xsd"/>
+    <system systemId="https://TOMEKBUSLOW7256:8181/WebServiceGlassSSL/ExampleWSService?wsdl" uri="wsdl/TOMEKBUSLOW7256_8181/WebServiceGlassSSL/ExampleWSService.wsdl"/>
+    <system systemId="https://TOMEKBUSLOW7256:8181/WebServiceGlassSSL/ExampleWSService?xsd=1" uri="wsdl/TOMEKBUSLOW7256_8181/WebServiceGlassSSL/ExampleWSService.xsd_1.xsd"/>
+    <system systemId="https://localhost:8181/WebServiceGlassSSL/ExampleWSService?wsdl" uri="wsdl/localhost_8181/WebServiceGlassSSL/ExampleWSService.wsdl"/>
+    <system systemId="https://localhost:8181/WebServiceGlassSSL/ExampleWSService?xsd=1" uri="wsdl/localhost_8181/WebServiceGlassSSL/ExampleWSService.xsd_1.xsd"/>
+</catalog>
